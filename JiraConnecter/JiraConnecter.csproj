@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Atlassian.SDK" Version="10.3.2" />
+  </ItemGroup>
+
 </Project>
