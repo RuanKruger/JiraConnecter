@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JiraConnecter", "JiraConnecter\JiraConnecter.csproj", "{C6C4FC0C-1353-41F2-82A9-9BEFEDECB70E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JiraConnecter", "JiraConnecter\JiraConnecter.csproj", "{C6C4FC0C-1353-41F2-82A9-9BEFEDECB70E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJiraConnecter", "..\TestJiraConnectoer\TestJiraConnecter.csproj", "{DCE50B0F-9AA9-41C3-8F86-56CDE1B15F99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C6C4FC0C-1353-41F2-82A9-9BEFEDECB70E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6C4FC0C-1353-41F2-82A9-9BEFEDECB70E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6C4FC0C-1353-41F2-82A9-9BEFEDECB70E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE50B0F-9AA9-41C3-8F86-56CDE1B15F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE50B0F-9AA9-41C3-8F86-56CDE1B15F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE50B0F-9AA9-41C3-8F86-56CDE1B15F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE50B0F-9AA9-41C3-8F86-56CDE1B15F99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
